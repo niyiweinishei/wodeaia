@@ -83,7 +83,7 @@ $(document).ready(function () {
 
     // GALLERY ANIMATIONS
 
-    $('ul.thumbs li').hover(function () {
+    /*$('ul.thumbs li').hover(function () {
         $(this).find("img").stop().animate({
             top: '-330px'
         }, 700, 'easeOutCubic')
@@ -92,7 +92,7 @@ $(document).ready(function () {
         $(this).find("img").stop().animate({
             top: '0px'
         }, 250)
-    });
+    });*/
 
     // SOCIAL HOVER ANIMATIONS
 

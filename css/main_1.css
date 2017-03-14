@@ -727,14 +727,14 @@ ul.feed-wrapper {
     left: -10px; }
   /* line 710, ../sass/main.scss */
   .social .dribbble {
-    background: url("../images/dribbble_ico.png") no-repeat center center;
+    background: url("../images/twitter_ico.png") no-repeat center center;
     width: 19px;
     height: 19px;
     right: -14px;
     top: -190px; }
   /* line 717, ../sass/main.scss */
   .social .behance {
-    background: url("../images/behance_ico.png") no-repeat center center;
+    background: url("../images/twitter_ico.png") no-repeat center center;
     width: 19px;
     height: 14px;
     top: -165px;
